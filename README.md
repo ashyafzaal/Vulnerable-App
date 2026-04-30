@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CW Template
 
 Build using Flask, see https://flask.palletsprojects.com/en/2.2.x/
@@ -48,3 +49,6 @@ Some Supporting files
 	
 	You can build this by visiting the ```/initdb``` url
 
+=======
+# Vulnerable-App
+>>>>>>> da3adea95777ec28138147b5de025d4d6c2ad41e
